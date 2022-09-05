@@ -1,0 +1,12 @@
+{
+  "ownerNumber": ["628157632665@s.whatsapp.net"],
+  "ownerName": ["Zeeby ID"],
+  "botName": "Zeeby Bot",
+  "footer": "2022 © Zeeby ID",
+  "sessionName": "session",
+  "pathimg": "./media/baymax.jpg",
+  "sticker": {
+        "packname": "Created By",
+        "author": "Christian ID"
+    }
+}
